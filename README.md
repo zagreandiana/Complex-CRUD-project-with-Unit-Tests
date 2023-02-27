@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Complex-CRUD-project-with-Unit-Tests
 
 - 3 entities
@@ -6,6 +5,4 @@
 - reports
 - Repository Interface
 - UnitTests
-=======
-# Complex-CRUD-Project-with-Unit-Tests
->>>>>>> CRUD + reports + unit tests
+
